@@ -75,3 +75,4 @@ class SkinSnapWikiSkin extends SkinTemplate {
 		return true;
 	}
 }
+?>
