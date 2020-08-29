@@ -5,7 +5,7 @@
  * @file
  * @ingroup Skins
  * @author (multiple)
- * @license MIT
+ * @license GPL
  */
 
 if ( !function_exists( 'wfLoadSkin' ) ) {
